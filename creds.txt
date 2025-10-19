@@ -1,2 +1,0 @@
-username=Yashwanth02
-password=Yashu@594785
